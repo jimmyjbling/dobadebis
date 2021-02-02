@@ -1,0 +1,41 @@
+vdw_basic:
+  H: 1.1
+  C: 1.7
+  N: 1.55
+  O: 1.52
+  F: 1.47
+  MG: 1.73
+  P: 1.8
+  S: 1.8
+  K: 2.75
+  CA: 2.31
+  CL: 1.75
+molarmass:
+  H: 1.0079
+  C: 12.0107
+  N: 14.0067
+  O: 15.9994
+  F: 18.9984
+  MG: 24.305
+  P: 30.9738
+  S: 32.065
+  K: 36.0983
+  CA: 40.078
+color:
+  H: 128,128,128
+  C: 0,255,0
+  N: 0,0,255
+  O: 255,0,0
+  F: 255,0,255
+  MG: 255,0,255
+  P: 255,0,255
+  S: 255,255,0
+  K: 255,0,255
+  CA: 255,0,255
+  CL: 255,0,255
+resolution_default: 128
+probe_radius: 1.5
+scale_factor_default_value: 4.0
+scale_factor_default: False
+max_box_length: 300
+vdw_type: basic
